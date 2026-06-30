@@ -22,7 +22,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal ata
 
 ### 1. Clone Repositori Ini
 ```bash
-git clone https://github.com
+git clone https://github.com/davidwu170179/Temp-Email.git
 cd git_tempe
 ```
 
