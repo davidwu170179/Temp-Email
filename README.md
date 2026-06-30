@@ -14,7 +14,7 @@ Aplikasi CLI (Command Line Interface) berbasis Python untuk membuat alamat email
 ## 🛠️ Kebutuhan Sistem & Dependensi
 - **OS**: Linux (diuji pada Ubuntu/OSBoxes), macOS, atau Windows.
 - **Python**: Versi 3.10 ke atas (diuji pada Python 3.13).
-- **Library**: `requests` dan `rich`.
+- **Library**: `curl_cffi>=0.6.0` dan `rich`.
 
 ## ⚙️ Cara Instalasi & Menjalankan
 
@@ -52,7 +52,7 @@ python tempe.py
 4. **Live Polling**: Menggunakan fitur `Live` dari library `rich` untuk mengecek dan menampilkan email masuk setiap 5 detik
 
 ## 👤 Kontributor
-- **David_Wu** - *Developer Utama* - [@username-github-anda](https://github.com)
+- **David_Wu** - *Developer Utama* - [@username-github-anda]([https://github.com/davidwu170179/Temp-Email.git]
 
 ## 📄 Lisensi
 Proyek ini bersifat open-source dan bebas digunakan untuk keperluan pembelajaran atau pengembangan lebih lanjut.
