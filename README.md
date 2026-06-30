@@ -52,7 +52,7 @@ python tempe.py
 4. **Live Polling**: Menggunakan fitur `Live` dari library `rich` untuk mengecek dan menampilkan email masuk setiap 5 detik
 
 ## 👤 Kontributor
-- **David_Wu** - *Developer Utama* - [@username-github-anda]([https://github.com/davidwu170179/Temp-Email.git]
+- **David_Wu** - *Developer Utama* - [https://github.com/davidwu170179/Temp-Email.git]
 
 ## 📄 Lisensi
 Proyek ini bersifat open-source dan bebas digunakan untuk keperluan pembelajaran atau pengembangan lebih lanjut.
