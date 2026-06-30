@@ -1,4 +1,8 @@
-# 📨 Tempe Mail Client (Mail.tm Clone)
+<p align="center">
+  <img src="banner.png" alt="Temp Mail OTP Client Banner" width="100%">
+</p>
+
+# 📨 Temp-e Mail Client (Mail.tm Clone)
 
 Aplikasi CLI (Command Line Interface) berbasis Python untuk membuat alamat email sementara (disposable email) secara instan dan memantau kotak masuk secara *real-time* langsung dari terminal.
 
